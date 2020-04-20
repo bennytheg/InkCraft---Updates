@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------
+------------------------***********************------------------------
+------------------------InkCraft Server Updates------------------------
+------------------------***********************------------------------
+-----------------------------------------------------------------------
+Update Date: 20/04/20
+Description: Upgrade
+Version: BETA 0.43
+
+20/04/20 - Updated Server Software To Build #51 In pr/new-raknet Branch
+20/04/20 - Stability Improvements
+20/04/20 - Implementing Robust MySQL Server For LandClaim Storage
