@@ -11,5 +11,6 @@ Version: BETA 0.5
 29/04/20 - Updated SkyBlock Basic Quests, Added 2 New Island Templates
 30/04/20 - Removed SkyBlock "Water Base" Bug
 30/04/20 - Reset Inventories To Allow Separate Inventories Per Worlds
+31/04/20 - Fixed Fall Into Void After Death Glitch
 WIP - Enabling SkyBlock Quests + Adding More Quests And Levels
 WIP - Updating Server Software To Build #52 In pr/new-raknet Branch
