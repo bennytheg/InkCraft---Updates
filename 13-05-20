@@ -1,0 +1,25 @@
+-----------------------------------------------------------------------
+------------------------***********************------------------------
+------------------------InkCraft Server Updates------------------------
+------------------------***********************------------------------
+-----------------------------------------------------------------------
+Update Date: 13/05/20
+Description: Security + Fixes
+Version: 0.55
+
+02/05/20 - (Discord) - Added A Command-Help Channel With Instructional Videos
+13/05/20 - Added More Secure Anti-Cheat
+13/05/20 - Patched Game Breaking Password Bypass Trick
+13/05/20 - (Discord) - Made Livestream Pings Optional
+13/05/20 - Lowered Unbreakbale Spawn Area = More Space
+13/05/20 - Upped Worldborder To 4300 By 4300
+13/05/20 - No Spawning For The First Time In The Rules Area
+13/05/20 - PROPERLY Fixed Void Falling
+13/05/20 - Fixed Items Falling From The Sky,  What!?
+13/05/20 - Updated All Plugins Which Needed Updates
+
+WIP - Fixing XP Not Saving On Logout
+WIP - SkyBlock Quests And Levels
+WIP - Adding Password Reset Command To Reset Passwords In-Game
+WIP - Updating Server Software For Implementation On New Blocks
+WIP - Adding The End Dimension And The Dragon, oooh!
